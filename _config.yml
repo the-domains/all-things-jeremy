@@ -1,0 +1,28 @@
+name: All Things Jeremy
+favicon: null
+layout_spectrum: 0.519843430723995
+typography_spectrum: 0.7905831262469292
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.17636282253079116
+  lightness: 0.007850965019315481
+  saturation: 0.45813183346763253
+  rhythmicContrast: 0.08394381427206099
+purpose: []
