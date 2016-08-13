@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
-description: I'm not sure what this will do.
-datePublished: '2016-08-13T05:26:24.778Z'
-dateModified: '2016-08-13T05:22:28.717Z'
+description: Ensemble Member at Rogue Artists Ensemble
+datePublished: '2016-08-13T05:46:44.638Z'
+dateModified: '2016-08-13T05:46:41.239Z'
 title: ''
 author: []
 via: {}
@@ -18,3 +18,12 @@ url: jeremy-the-actor/index.html
 _type: Article
 
 ---
+Ensemble Member at Rogue Artists Ensemble
+
+Ensemble Member at Brown Bag Theatre Co.
+
+Founding Company Artist at Breathe Theatre Co.
+
+Company Member at New Swan Shakespeare Festival
+
+Partner at ClownMa dell'Arte
