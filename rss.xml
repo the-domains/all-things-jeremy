@@ -4,8 +4,15 @@
         <description><![CDATA[The wonderful world of being a catalyst]]></description>
         <link>https://thegrid.ai/all-things-jeremy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 05:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 05:26:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/all-things-jeremy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jeremy The Actor]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/all-things-jeremy/jeremy-the-actor/index.html</link>
+            <guid isPermaLink="false">fc06c552-c8ef-41a3-a6a3-262ebae544b7</guid>
+            <pubDate>Sat, 13 Aug 2016 05:26:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be32ddc-ec7b-4b8a-97eb-abe780c92e9b.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/all-things-jeremy/welcome-to-this-place-i-made-with-my-heart-and-soul-to-pass/index.html</link>
             <guid isPermaLink="false">fbfbfe30-7a7e-4e5f-8b14-a379d5a8148b</guid>
             <pubDate>Sat, 13 Aug 2016 05:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jeremy The Actor]]></title>
-            <description><![CDATA[<p>I'm not sure what this will do.</p>]]></description>
-            <link>https://thegrid.ai/all-things-jeremy/jeremy-the-actor/index.html</link>
-            <guid isPermaLink="false">fc06c552-c8ef-41a3-a6a3-262ebae544b7</guid>
-            <pubDate>Sat, 13 Aug 2016 05:21:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
