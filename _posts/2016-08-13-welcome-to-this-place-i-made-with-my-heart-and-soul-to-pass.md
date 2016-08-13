@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Welcome to this place I made with my heart and soul to pass along to you the
   joy I feel to be fool. Welcome. Stay, Laugh, Learn
-datePublished: '2016-08-13T05:14:55.728Z'
-dateModified: '2016-08-13T05:14:44.700Z'
+datePublished: '2016-08-13T05:21:43.518Z'
+dateModified: '2016-08-13T05:15:03.840Z'
 title: ''
 author: []
 via: {}
