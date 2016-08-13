@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: Ensemble Member at Rogue Artists Ensemble
-datePublished: '2016-08-13T05:46:44.638Z'
-dateModified: '2016-08-13T05:46:41.239Z'
+datePublished: '2016-08-13T05:50:37.069Z'
+dateModified: '2016-08-13T05:49:53.183Z'
 title: ''
 author: []
 via: {}
@@ -15,7 +15,7 @@ authors: []
 publisher: {}
 starred: false
 url: jeremy-the-actor/index.html
-_type: Article
+_type: Blurb
 
 ---
 Ensemble Member at Rogue Artists Ensemble
