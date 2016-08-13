@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[All Things Jeremy]]></title>
-        <description><![CDATA[All Things Jeremy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The wonderful world of being a catalyst]]></title>
+        <description><![CDATA[The wonderful world of being a catalyst]]></description>
+        <link>https://thegrid.ai/all-things-jeremy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 05:10:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Aug 2016 05:14:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/all-things-jeremy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to this place I made with my heart and soul to pass along to you the joy I feel to be fool.</p>]]></description>
-            <link>undefinedwelcome-to-this-place-i-made-with-my-heart-and-soul-to-pass/index.html</link>
+            <description><![CDATA[<p>Welcome to this place I made with my heart and soul to pass along to you the joy I feel to be fool. Welcome. Stay, Laugh, Learn</p>]]></description>
+            <link>https://thegrid.ai/all-things-jeremy/welcome-to-this-place-i-made-with-my-heart-and-soul-to-pass/index.html</link>
             <guid isPermaLink="false">fbfbfe30-7a7e-4e5f-8b14-a379d5a8148b</guid>
-            <pubDate>Sat, 13 Aug 2016 05:10:13 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2016 05:14:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
